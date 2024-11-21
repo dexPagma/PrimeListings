@@ -21,7 +21,7 @@ PrimeListings is a real estate listing website built with MongoDB, React, and Ja
 
 1. Clone the repository:
     ```
-    git clone https://github.com/stealthwhizz/PrimeListings.git
+    git clone https://github.com/dexPagma/PrimeListings.git
     ```
 2. Navigate to the project directory:
     ```
